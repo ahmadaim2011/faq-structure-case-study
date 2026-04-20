@@ -58,8 +58,7 @@ Instead of listing questions randomly, this case study applies a structured meth
 ---
 
 ## File
-- `faq-structure-case-study.pdf`
-
+- [Download the PDF](faq-structure-case-study.pdf)
 ---
 
 ## Attribution
